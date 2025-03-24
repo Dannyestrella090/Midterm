@@ -1,2 +1,2 @@
-# Prototype 
+# Midterm
  LeBron James fanpage
